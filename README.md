@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--sureshaski-hue--test-bimota.hlx.page
-- Live: https://main--sureshaski-hue--test-bimota.hlx.live
+- Preview: https://main--test-bimota--sureshaski-hue.hlx.page
+- Live: https://main--test-bimota--sureshaski-hue.hlx.live
 
 ## Installation
 
